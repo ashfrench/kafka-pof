@@ -1,4 +1,4 @@
 .idea
 /target
 *.iml
-src/main/resources/kafka/logs/server.log
+src/main/resources/kafka/logs/*.log
